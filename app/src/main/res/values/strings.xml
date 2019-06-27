@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="equal"><b>=</b></string>
+    <string name="zero"><b>0</b></string>
+    <string name="one"><b>1</b></string>
+    <string name="two"><b>2</b></string>
+    <string name="three"><b>3</b></string>
+    <string name="four"><b>4</b></string>
+    <string name="five"><b>5</b></string>
+    <string name="six"><b>6</b></string>
+    <string name="seven"><b>7</b></string>
+    <string name="eight"><b>8</b></string>
+    <string name="nine"><b>9</b></string>
+    <string name="dot"><b>.</b></string>
+    <string name="backspace"><b>del</b></string>
+    <string name="clear"><b>c</b></string>
+    <string name="plus"><b>+</b></string>
+    <string name="minus"><b>-</b></string>
+    <string name="divide"><b>/</b></string>
+    <string name="multiply"><b>*</b></string>
+    <string name="negative"><b>+/-</b></string>
+
+
+</resources>
